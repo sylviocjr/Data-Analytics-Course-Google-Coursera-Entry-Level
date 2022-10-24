@@ -1,4 +1,4 @@
-# Data-Analytics-Course---Google---Coursera---Entry-Level
+# Data Analytics Course - Google - Coursera - Entry-Level
 
 ## README
 
