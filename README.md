@@ -14,12 +14,14 @@ Autor: Sylvio Carneiro Júnior (sylviocjr.dev@gmail.com).
 
 Data de criação: outubro de 2022.
 
-Status atual do curso: Semana 5 / Módulo 4.
+Status atual do curso: Semana 1 / Módulo 5.
 
-Data de atualização: 29 nov. 2022.
+Data de atualização: 15 dez. 2022.
 
 Certificado do primeiro módulo: https://www.coursera.org/account/accomplishments/records/BRS4FSVH5YRX
 
 Certificado do segundo módulo: https://www.coursera.org/account/accomplishments/records/SKMNY956E4CX
 
 Certificado do terceiro módulo: https://www.coursera.org/account/accomplishments/verify/VVPZKSU22LVG
+
+Certificado do quarto módulo: https://www.coursera.org/account/accomplishments/verify/BMERBMCFDHBB
